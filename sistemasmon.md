@@ -1,6 +1,6 @@
 1. Nagios
     * Es una solución de monitorización de infraestructura que permite supervisar servidores, aplicaciones, redes y servicios. Ofrece alertas configurables, informes detallados y soporte para múltiples plugins para adaptarse a diferentes necesidades.
-    <img src="img/nagios.png" width="200">
+       <img src="img/nagios.png" width="200">
 
 
 2. Zabbix
