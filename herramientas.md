@@ -164,7 +164,7 @@ iptraf
 ![17](img/17.png)
 ![17.1](img/17.1.png)
 ![17.2](img/17.2.png)
-![17.3]img/(17.3.png)
+![17.3](img/17.3.png)
 ---
 ## bmon
 ```bash 
