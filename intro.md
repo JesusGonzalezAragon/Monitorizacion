@@ -16,6 +16,4 @@ La monitorización en informática es una práctica esencial para los administra
 * **Aplicaciones y servicios:** Tiempo de respuesta, errores.
 * **Seguridad:** Actividades sospechosas, accesos no autorizados.
 
-## Referencias
-* [Chatgtp](https://chatgpt.com/)
-* [Manuel Domínguez](https://github.com/mftienda)
+
